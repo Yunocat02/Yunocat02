@@ -125,31 +125,6 @@ I’m interested in running LLMs locally for privacy, cost control, and experime
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yunocat02&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunocat02&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yunocat02&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunocat02&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunocat02&theme=flat&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 <details>
   <summary><b>🗂️ What I like building</b></summary>
 
