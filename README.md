@@ -136,6 +136,10 @@ I’m interested in running LLMs locally for privacy, cost control, and experime
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yunocat02&theme=transparent" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunocat02&theme=github-compact&hide_border=true" />
+</p>
+
 ---
 
 ## 🏆 Highlights
