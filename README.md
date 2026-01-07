@@ -118,7 +118,7 @@ I’m interested in running LLMs locally for privacy, cost control, and experime
   <a href="https://fb.com/YOUR_HANDLE" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@YOUR_HANDLE" target="_blank">
+  <a href="https://www.youtube.com/@yunocat" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
 </p>
