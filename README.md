@@ -27,7 +27,7 @@ My core path is:
 - 🔐 Comfortable with security tooling and supply-chain controls
 - 🎛️ Love observability: turning telemetry into actionable reliability improvements
 - 🧠 Interests: **Self-hosted LLMs**, **3D rendering / virtual worlds (Blender + Unity)**, and **optimization**
-- 🍫 Fun fact: I like **Market O Real Brownie** (yes, it’s a serious preference)
+- 🍫 Fun fact: I like **Market O Real Brownie**—you’ve got to try it!
 
 ---
 
