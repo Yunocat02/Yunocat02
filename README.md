@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=System+Engineer+%E2%86%92+Platform+Engineer+%E2%86%92+DevOps;Kubernetes+%7C+OpenShift+%7C+CI%2FCD+%7C+Security+Tooling;Linux+%28Ubuntu%29+%7C+Observability+%7C+Automation;Fullstack+skills+too+%E2%80%94+React%2FNext.js%2F.NET%2FFlutter;Self-hosted+LLMs+%7C+3D+Rendering+with+Blender+%26+Unity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%E2%86%92+Platform+Engineer;Kubernetes+%7C+OpenShift+%7C+CI%2FCD+%7C+Security+Tooling;Linux+%7C+Observability+%7C+Automation;Fullstack+skills+%E2%80%94+React%2FNext.js%2F.NET%2FFlutter;Self-hosted+LLMs+%7C+3D+Rendering+with+Blender+%26+Unity" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,19 +16,18 @@
 
 ## 👨‍💻 About me
 
-I’m a **System Engineer** with hands-on **enterprise/production** experience, specializing in building and operating reliable platforms.
-My core path is:
+I’m a **DevOps Engineer** with hands-on **enterprise and production** experience, focused on building reliable, secure, and scalable engineering platforms.
 
-**System Engineer → Platform Engineer → DevOps Engineer**  
-…and I also keep strong **Fullstack Engineering** capabilities for product delivery end-to-end.
+Today, I work primarily on **DevOps practices**, connecting infrastructure, development workflows, automation, and operational excellence.
 
-- 🧩 Strong in **Linux (Ubuntu)**, platform operations, automation, and performance optimization
-- ☸️ Operated **large-scale Kubernetes clusters** and enterprise-grade CI/CD pipelines
-- 🔐 Comfortable with security tooling and supply-chain controls
-- 🎛️ Love observability: turning telemetry into actionable reliability improvements
-- 🧠 Interests: **Self-hosted LLMs**, **3D rendering / virtual worlds (Blender + Unity)**, and **optimization**
-- 🍫 Fun fact: I like **Market O Real Brownie**—you’ve got to try it!
-
+- 🚀 Building and maintaining production-grade CI/CD pipelines and deployment workflows
+- ☸️ Operating Kubernetes and OpenShift environments with reliability and security in mind
+- 🐧 Strong foundation in Linux system administration, troubleshooting, and performance optimization
+- 🔐 Implementing security practices across software supply chain and infrastructure
+- 📊 Improving observability through metrics, logs, tracing, dashboards, and alerting strategies
+- 🤖 Exploring self-hosted LLM infrastructure, automation, and resource optimization
+- 🎨 Interested in 3D rendering pipelines, virtual worlds, Blender, and Unity optimization
+- 🍫 Fun fact: I like **Market O Real Brownie** — you’ve got to try it!
 ---
 
 ## 🧰 Platform / DevOps stack (daily drivers)
@@ -63,11 +62,13 @@ My core path is:
 
 ## 🧪 Engineering focus
 
-- **Platform Reliability:** SLO/SLA thinking, incident response, capacity planning, proactive hardening  
-- **Kubernetes at scale:** cluster operations, multi-tenant patterns, policy & security controls  
-- **CI/CD & Supply Chain:** automation pipelines, registry hygiene, vulnerability scanning, secrets management  
-- **Observability:** metrics/logs/traces strategy, dashboards, alerting that reduces noise  
-- **Optimization mindset:** cost/performance tuning, faster builds, leaner deployments, measurable improvements  
+- **DevOps Engineering:** CI/CD automation, release workflows, deployment strategies, developer enablement
+- **Platform Engineering:** Kubernetes platforms, internal tooling, self-service infrastructure, platform reliability
+- **Infrastructure Reliability:** SLO/SLA thinking, incident response, capacity planning, proactive hardening
+- **Cloud Native Operations:** Kubernetes, OpenShift, containers, orchestration, and workload optimization
+- **Security & Supply Chain:** vulnerability scanning, secrets management, policy enforcement, secure delivery pipelines
+- **Observability:** metrics/logs/traces strategy, actionable dashboards, and intelligent alerting
+- **Optimization mindset:** improving performance, reducing operational friction, and creating measurable impact
 
 ---
 
@@ -128,11 +129,11 @@ I’m interested in running LLMs locally for privacy, cost control, and experime
 <details>
   <summary><b>🗂️ What I like building</b></summary>
 
-- **Platform foundations:** cluster tooling, GitOps patterns, deployment guardrails  
-- **CI/CD excellence:** faster pipelines, safer releases, reproducible builds  
-- **Security by default:** secrets hygiene, vulnerability scanning, policy controls  
-- **Observability-first:** dashboards that explain “why” — not just “what”  
-- **Developer experience:** making the platform easy and pleasant to use  
+- **DevOps platforms:** automated delivery pipelines and reliable deployment workflows
+- **Platform foundations:** Kubernetes tooling, GitOps patterns, developer self-service platforms
+- **Secure delivery systems:** vulnerability scanning, secrets management, policy controls
+- **Observability ecosystems:** systems that explain problems, not just report failures
+- **Developer experience:** making engineering platforms simple, fast, and enjoyable
 
 </details>
 
@@ -150,5 +151,5 @@ I’m interested in running LLMs locally for privacy, cost control, and experime
 ---
 
 <p align="center">
-  <i>Building reliable platforms • Shipping with confidence • Always optimizing</i>
+  <i>Building reliable delivery platforms • Automating operations • Improving engineering velocity</i>
 </p>
