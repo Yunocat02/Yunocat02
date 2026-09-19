@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%E2%86%92+Platform+Engineer;Kubernetes+%7C+OpenShift+%7C+CI%2FCD+%7C+Security+Tooling;Linux+%7C+Observability+%7C+Automation;Fullstack+skills+%E2%80%94+React%2FNext.js%2F.NET%2FFlutter;Self-hosted+LLMs+%7C+3D+Rendering+with+Blender+%26+Unity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%28Current%29+%7C+Platform+Engineering;System+Engineer+Background+%7C+Kubernetes+%7C+OpenShift;CI%2FCD+%7C+Security+Tooling+%7C+Observability;Linux+%7C+Automation+%7C+Cloud+Native;Self-hosted+LLMs+%7C+3D+Rendering+with+Blender+%26+Unity" alt="Typing SVG" />
   </a>
 </p>
 
